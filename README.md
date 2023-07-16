@@ -1,0 +1,2 @@
+# gitresources
+To store images
